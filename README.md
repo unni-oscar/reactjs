@@ -1,13 +1,29 @@
-clone the repo
+### Instruction for installation
+
+Clone the repo
+
+```
 git clone https://github.com/unni-oscar/reactjs.git  reactjs
+```
 
-move to the newly created folder
+Move to the newly created folder
+
+```
 cd reactjs
+```
 
-install dependencies 
+Install dependencies 
+
+```
 npm install
+```
 
-run the project
+Run the project
+
+```
 npm start
+```
+
 
 now the new page will be opened in the browser
+
